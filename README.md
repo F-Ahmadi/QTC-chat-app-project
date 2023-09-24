@@ -1,4 +1,4 @@
-# QTC-chatroom-project
+# QTCP-chatroom-project
 In this project, I create a QTCP chatroom.
 
 
