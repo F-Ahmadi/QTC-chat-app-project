@@ -1,5 +1,5 @@
-# QTCP-chatroom-project
-In this project, I create a QTCP chatroom.
+# QTCP-chat-app-project
+In this project, I create a QTCP chat App.
 
 
 TCP (Transmission Control Protocol) is a reliable, stream-oriented, connection-oriented transport protocol.
